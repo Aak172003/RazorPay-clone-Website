@@ -11,5 +11,4 @@ This is a clone of the Razorpay website created using HTML, CSS, JavaScript, and
 
 - Tailwind CSS: The website is built using Tailwind CSS, a utility-first CSS framework that provides pre-designed components and utilities for rapid development.
 
-# Demo Link :
 
